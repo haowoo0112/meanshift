@@ -33,6 +33,8 @@ while(1):
         x,y,w,h = track_window
         img2 = cv.rectangle(frame, (x,y), (x+w,y+h), 255,2)
         cv.imshow('img2',img2)
+        cv.waitKey(1)
+
     else:
         break
 
