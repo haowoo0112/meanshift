@@ -6,10 +6,13 @@
 ## Code
 mp4 source: https://www.pexels.com/video/tourist-crossing-the-street-855565/
 
-## Eesult
+## Result
 |1|2
 |-|-
 |![](https://i.imgur.com/Ar7MbSR.jpg)|![](https://i.imgur.com/ZRDd1wE.jpg)
+The backprojection result
+![](https://i.imgur.com/HLlFV5H.jpg)
+
 
 ## Downside
 ![](https://i.imgur.com/u4QJEaY.jpg =400x200)
